@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @focusdivyam
-- 👀 I’m interested in coding, learning and exploring new things and in finance.
-- 🌱 I’m currently learning C++ and Python.
+- 👋 Hi, I’m Divyam.
 - 💞️ I’m looking to collaborate on Projects which are made in C++ language or C.
 
 <!---
