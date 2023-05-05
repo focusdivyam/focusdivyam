@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Divyam.
+- 👋 Hi, myself Divyam.
 - 💞️ I’m looking to collaborate on Projects which are made in C++ language or C.
 
 <!---
