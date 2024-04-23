@@ -1,4 +1,5 @@
 About Me
+
 Hello! myself Divyam.
 
 🔍 I'm enthusiastic about problem-solving and algorithmic challenges, with a focus on data structures and algorithms in C, C++, and Python. You'll often find me participating in competitive programming contests and honing my skills on platforms like Codeforces and LeetCode.
