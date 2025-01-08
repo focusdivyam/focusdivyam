@@ -4,7 +4,7 @@ Hello! myself Divyam.
 
 🔍 I'm enthusiastic about problem-solving and algorithmic challenges, with a focus on data structures and algorithms in C, C++, and Python. You'll often find me participating in competitive programming contests and honing my skills on platforms like Codeforces and LeetCode.
 
-👨‍💻 I have a strong background in backend development, working with technologies like PHP, Javasript, Node.js and MySqL to create scalable and efficient server-side applications.
+👨‍💻 I have a strong zeal and background in backend development, working with technologies like PHP, Javasript, Node.js and want to learn more and more to create scalable and efficient server-side applications.
 
 Get in Touch
 📫 If you're interested in collaborating on a project, discussing ideas, or just want to say Hi, feel free to reach out to me via email or connect with me on LinkedIn.
